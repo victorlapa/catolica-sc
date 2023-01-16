@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/53b138b3b987275b46000115/javascript
 
 ### Must Have:
-Teste unitario
+Teste unitario<br />
 Codigo limpo
 
 Para instalar as dependencias `npm i`<br />
